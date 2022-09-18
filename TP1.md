@@ -90,4 +90,16 @@ Afficher seulement les lignes 10 à 20:
 22.find / -name passwd > ~/list_passwd_files.txt i2> /dev/null
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/97104312/190903759-8c2639e8-a9c1-473d-b9cc-49f25d15ca5e.png">
 
+23.
 
+24.
+
+25.
+
+Exercice 3
+
+1. Pour copier syslog dans notre repertoire on utilise ```cp syslog ~```
+2. On utilise alt+r, 'kernel', puis 'noyau'
+3. Il faut utiliser alt+A pour marquer ce qu'il faut couper donc les 10 premières ligne, puis ctrl+k pour couper, ctrl+fleche bas pour aller en bas, puis ctrl+u pour coller
+4. On utilise alt+u pour annuler l'action
+5. On utilise ctrl+x pour quitter et on appuie sur y pour valider le changement
