@@ -2,8 +2,8 @@ Manuel
 
 1. La commande “which”: localise une commande, un binaire dans le shell.
 2. /search option
-3. On quitte avec la touche “q”
-4.
+3. On quitte avec la touche “q”  
+4.man 6, la section regroupe les minis jeux  
 
 Navigation dans l’arborescence des fichiers
 
@@ -90,9 +90,9 @@ Afficher seulement les lignes 10 à 20:
 22.find / -name passwd > ~/list_passwd_files.txt i2> /dev/null
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/97104312/190903759-8c2639e8-a9c1-473d-b9cc-49f25d15ca5e.png">
 
-23.
+23.  Pour chercher ou est défini l'alias ll: « grep --r ls --alF * ».
 
-24.
+24. 'locate history.log'
 
 25.
 
